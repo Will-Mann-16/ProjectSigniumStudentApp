@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "RIDGE Student",
+    "slug": "ridge-student-app",
+    "description": "The App for Students to use to interact with RIDGE Software.",
+    "orientation": "portrait",
+    "sdkVersion": "25.0.0",
+    "androidStatusBar": {
+      "barStyle": "light-content"
+    },
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.clowd.ridgestudent"
+    },
+    "android": {
+      "package": "com.clowd.ridgestudent"
+    }
+  },
+  "name": "ProjectSigniumStudentApp",
+  "displayName": "RIDGE Student"
+}
